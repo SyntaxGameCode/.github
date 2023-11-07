@@ -4,7 +4,9 @@
 [![Join the forum](https://img.shields.io/static/v1?label=Forum&message=forum.syntax-gc.org&color=green)](https://forum.syntax-gc.org/)
 [![Contribute](https://img.shields.io/static/v1?label=Contribute&message=syntax-gc.org/participate&color=orange)](https://www.syntax-gc.org/participate/)
 
+
 **About this GitHub org**.
+
 This is the main GitHub organization of the SyntaxGameCode community.
 It includes repositories, libraries and developer tools.
 You can learn more about the project structure on the [website](https://www.syntax-gc.org/participate/code/).
