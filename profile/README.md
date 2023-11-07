@@ -5,8 +5,7 @@
 [![Contribute](https://img.shields.io/static/v1?label=Contribute&message=syntax-gc.org/participate&color=orange)](https://www.syntax-gc.org/participate/)
 
 
-**About this GitHub org**.
-
-This is the main GitHub organization of the SyntaxGameCode community.
-It includes repositories, libraries and developer tools.
+**About this GitHub org**.\n
+This is the main GitHub organization of the SyntaxGameCode community.\n
+It includes repositories, libraries and developer tools.\n
 You can learn more about the project structure on the [website](https://www.syntax-gc.org/participate/code/).
