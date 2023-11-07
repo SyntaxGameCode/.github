@@ -1,6 +1,10 @@
 ## Hi! The SyntaxGameCode team is in touch and we are making games!
 
-[![Site](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://syntax-gc.org)
-[![Forum](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=red)](https://forum.syntax-gc.org)
+[![Website](https://img.shields.io/static/v1?label=Website&message=syntax-gc.org&color=blue)](https://syntax-gc.org/)
+[![Join the forum(https://img.shields.io/static/v1?label=Forum&message=forum.syntax-gc.org&color=green)](https://forum.syntax-gc.org/)
+[![Contribute](https://img.shields.io/static/v1?label=Contribute&message=syntax-gc.org/participate&color=orange)](https://www.syntax-gc.org/participate/)
 
-[![Discord](https://img.shields.io/static/v1?label=Discord:WeRn2889&message=%20&logo=Discord&style=flat-square&logoColor=blue)](https://discord.com)
+**About this GitHub org**.
+This is the main GitHub organization of the SyntaxGameCode community.
+It includes repositories, libraries and developer tools.
+You can learn more about the project structure on the [website](https://www.syntax-gc.org/participate/code/).
